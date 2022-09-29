@@ -1,0 +1,43 @@
+#box{
+    border: 2px solid rgb(0, 0, 0);
+    width: 600px;
+    height: 250px;
+    margin: auto;
+    margin-top: 1in;
+}
+#boxx{
+    border: 3px solid gray;
+    background-color: rgb(204, 220, 249);
+    width: 350px;
+    height: 120px;
+    margin:auto;
+}
+h3{
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+#box1{
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+#B1{
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 2px;
+   width: 70%;
+   border: 1.5px solid rgb(245, 156, 105);
+}
+#B2{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    border: 1px solid gray ;
+    margin-bottom: 2px;
+}
+#button{
+    margin-left: auto;
+   width: 70%;
+
+   margin-bottom: 2px;
+}
